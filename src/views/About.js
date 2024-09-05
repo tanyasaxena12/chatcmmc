@@ -10,14 +10,15 @@ const About = () => {
         <Card>
           <CardTitle tag="h6" className="border-bottom p-3 mb-0">
             <i className="bi bi-bell me-2"> </i>
-            About The CMMC Bot
+            About ChatCMMC
           </CardTitle>
           <CardBody className="p-4">
             <Row justify-content>
               <Col lg="8">
-                <h2 className="mt-4">About The CMMC Bot 🧑🏻‍✈️</h2>
+                <h2 className="mt-4">About ChatCMMC</h2>
                 <h5 className=" mb-4">
-                The CMMC Bot, designed by Jun Cyber, represents a cutting-edge solution in the realm of cybersecurity compliance and certification. Specifically crafted to assist organizations in navigating the complexities of the Cybersecurity Maturity Model Certification (CMMC), this bot leverages advanced technologies like PostgreSQL for robust data management and VertexAI (Dialogflow CX) to deliver intelligent, context-aware interactions.
+
+                ChatCMMC, designed by Jun Cyber, represents a cutting-edge solution in the realm of cybersecurity compliance and certification. Specifically crafted to assist organizations in navigating the complexities of the Cybersecurity Maturity Model Certification (CMMC), this bot leverages advanced technologies like PostgreSQL for robust data management and VertexAI (Dialogflow CX) to deliver intelligent, context-aware interactions.
                   
                 </h5>
                 <img src="/about.jpg" alt="my"/>

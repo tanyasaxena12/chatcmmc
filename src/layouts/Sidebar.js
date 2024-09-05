@@ -3,7 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 
 const navigation = [
   {
-    title: "The CMMC Bot",
+    title: "ChatCMMC",
     href: "/cmmcbot",
     icon: "bi bi-people",
   },

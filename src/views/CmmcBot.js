@@ -1,3 +1,4 @@
+
 import { Row, Col, Card, CardBody, CardTitle } from "reactstrap";
 import "./CmmcBot.css";
 
@@ -11,7 +12,7 @@ const CmmcBot = () => {
         <Card id="card1">
           <CardTitle tag="h6" className="border-bottom p-3 mb-0">
             <i className="bi bi-bell me-2"> </i>
-            About The CMMC Bot
+            About ChatCMMC
           </CardTitle>
           <CardBody className="p-4">
             <Row justify-content>
@@ -23,7 +24,7 @@ const CmmcBot = () => {
                   max-query-length="-1"
                   allow-feedback="all">
                   <df-messenger-chat
-                    chat-title="The CMMC Bot 👮‍♀️🤖">
+                    chat-title="Welcome to ChatCMMC!">
                   </df-messenger-chat>
                 </df-messenger>
 
